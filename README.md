@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomarq07
-- 👀 I’m interested in programming in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on some companies
 - 📫 How to reach me, only dm me
 - 😄 Pronouns: Tomarq or Tomyt
